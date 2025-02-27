@@ -24,7 +24,7 @@ The project uses the **German Traffic Sign Recognition Benchmark (GTSRB)** datas
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/traffic-sign-detection.git
+   git clone https://github.com/pranesh008/traffic-sign-detection.git
    cd traffic-sign-detection
    ```
 
